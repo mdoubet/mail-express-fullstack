@@ -1,0 +1,52 @@
+type Product {
+  id: ID! @unique
+  model: String
+  name: String!
+  price: Float
+  highlight1: String
+  highlight2: String
+  nameLine1: String!
+  nameLine2: String!
+  imageURL: String @default(value: "./noimage.png")
+  details: [Detail!]!
+  categories: [Category!]! @relation(name: "ProductCategories")
+  quantityInStock: Int! @default(value: 0)
+  path: String @default(value: "./")
+}
+
+type Detail{
+  product: Product!
+  property: String!
+  value: String!
+}
+
+type Category{
+  id: ID! @unique
+  name: String! @unique
+  products: [Product!]! @relation(name: "ProductsInCategory", onDelete: SET_NULL)
+  subCategories: [Category!]!
+}
+
+type User{
+  id: ID! @unique
+  firstName: String!
+  lastName: String!
+  login: String!
+  password: String!
+  favorites: [Product!]! @relation (name: "UserFavorites")
+  cart: Cart
+  role: Role!
+}
+
+enum Role {
+  CUSTOMER
+  MANAGER
+  ADMIN
+}
+
+type Cart{
+  id: ID! @unique
+  name: String!
+  user: User!
+  products: [Product!]!
+}
