@@ -37,10 +37,13 @@ export default class extends Component {
         const products = this.state.products;
         return (
             <Fragment>
-                <p>{products[0] ? products.map(product => <p>{product.name} has an id of {product.id} and image {product.imageURL}</p>
-                ): <button onClick={this.loadProducts}>Load products</button>}</p>
-                <Product product = {products[0]}/>
-                <CategoryInline products = {products}/>
+                <p>{products[0] ?
+                    <Fragment>
+                    <Product product = {products[0]}/>
+                    <CategoryInline products = {products}/>
+                    </Fragment>
+                : <button onClick={this.loadProducts}>Load products</button>}</p>
+
             </Fragment>
         );
     }
