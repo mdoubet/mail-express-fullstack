@@ -1,12 +1,16 @@
 import React, {Component, Fragment} from 'react'
+import {Route} from 'react-router-dom'
 
 import ProductPage from '../pages/ProductPage'
+import StoreManagement from '../pages/StoreManagement'
+
 export default class extends Component {
     render() {
         return (
             <Fragment>
-                <ProductPage/>
-
+                <Route exact path ='/' component={ProductPage}/>
+                <Route exact path ='/product' component={ProductPage}/>
+                <Route exact path ='/admin' component={StoreManagement}/>
             </Fragment>
         );
     }

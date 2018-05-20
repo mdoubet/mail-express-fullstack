@@ -2,13 +2,14 @@ import React, {Component, Fragment} from 'react'
 
 import {Card, CardActions, CardHeader, CardMedia, CardTitle, CardText} from 'material-ui/Card';
 import FlatButton from 'material-ui/FlatButton'
+// import Toggle from 'material-ui/Toggle'
 
 export default class extends Component {
 
     constructor(props) {
         super(props);
         this.state = {
-            expanded: true,
+            expanded: false,
         };
     }
 
@@ -25,33 +26,49 @@ export default class extends Component {
     };
 
     handleReduce = () => {
-        this.setState({expanded: false});
+        this.setState({expanded: !this.state.expanded});
     };
 
 
 
     render() {
 
-
+        const product = this.props.product;
+        const imageURL = `https://raw.githubusercontent.com/mdoubet/mail-express-fullstack/master/front-end/src/images/${product.imageURL}`
+        console.log(imageURL)
         const renderDetails = () => {
             return (
-                <article>
-                    <h4>dimensions: 16 X 12 x 12</h4>
-                    <h4>best used for: books, paper, heavy items</h4>
-                </article>
+                product.details.map( detail =>
+                    <p>{detail.property} : {detail.value}</p>
+                )
             )
         };
 
         return (
-            <Card expanded={this.state.expanded} onExpandChange={this.handleExpandChange} style={{borderRadius:'20px', width: '360px'}}>
-                <CardHeader
-                    title= 'Small Moving Box'
-                    titleColor = '#F0F0F0'
-                    subtitle = 'Uhaul'
-                    subtitleColor = '#C3C3C3'
-                    actAsExpander={true}
-                    showExpandableButton={true}
-                />
+            <Card expanded={this.state.expanded} onExpandChange={this.handleExpandChange} style={{margin: "12px", backgroundColor: '#1976D2',borderRadius:'20px', }}>
+
+                <CardMedia
+                    expandable={false} style={{marginTop:"-30px"}}
+
+                    // overlay={}
+                >
+                    <img src={imageURL} alt="" style={{ marginBottom: "-20px"}}/>
+                    <CardTitle title={product.name} style = {{marginTop:"-40px"}} titleStyle= {{color:"white"}}/>
+                </CardMedia>
+                {/*<div style={{backgroundColor: "white"}}>*/}
+                <CardText expandable={false} style = {{backgroundColor:"white", marginBottom: "-20px"}}>
+                    <article>
+                        <p>{product.highlight1}</p>
+                        <p>{product.highlight2}</p>
+                    </article>
+
+                </CardText>
+                <CardActions style = {{backgroundColor: "white"}}>
+                    <FlatButton label="details" onClick={this.handleReduce} />
+                </CardActions>
+
+
+
                 {/*<CardText>*/}
                 {/*<Toggle*/}
                 {/*toggled={this.state.expanded}*/}
@@ -60,20 +77,16 @@ export default class extends Component {
                 {/*label="This toggle controls the expanded state of the component."*/}
                 {/*/>*/}
                 {/*</CardText>*/}
-                <CardMedia
-                expandable={true}
-                >
-                    <img src = "../images/uhaul-small-box.png"/>
-                </CardMedia>
 
-                <CardTitle title="Small Moving Box" subtitle="details" expandable={true} />
-                <CardText expandable={true}>
+
+                {/*<CardTitle title="Small Moving Box" subtitle="details" expandable={true} />*/}
+
+                <CardText expandable={true} expanded={this.state.expanded} style = {{backgroundColor:"white", marginTop: "-20px"}}>
                     {renderDetails()}
-                    <CardActions>
-                        <FlatButton label="hide details" onClick={this.handleReduce} />
-                    </CardActions>
+
                 </CardText>
 
+                {/*</div>*/}
             </Card>
         );
     }

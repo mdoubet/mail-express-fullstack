@@ -25,14 +25,14 @@ export default class extends Component {
         const renderCategory = products.map(product =>{
             const image = `https://raw.githubusercontent.com/mdoubet/mail-express-fullstack/master/front-end/src/images/${product.imageURL}`
             return (
-                <GridTile  key={product.imageURL} title={product.name} titleStyle={{color: 'yellow'}} style = {{margin: '5px', width: '200px', borderRadius: '12px', border: '3px solid #C0C0C0', boxShadow: '6px 2px #C0C0C0'}}
+                <GridTile  key={product.imageURL} title={product.name} titleStyle={{color: 'yellow'}} style = {{backgroundColor:'#63A4FF', width: '180px', borderRadius: '12px', boxShadow: '6px 2px #C0C0C0'}}
                            titleBackground="#004BA0">
 
                     <img src={image}/>
                 </GridTile>
         )})
         return (
-            <GridList style = {{display:'flex', flexWrap:'nowrap', overflowX:'auto', padding: '22px', margin: '8px'}} cols={2.2} >
+            <GridList style = {{display:'flex', flexWrap:'nowrap', overflowX:'auto'}} >
                 {renderCategory}
             </GridList>
         );

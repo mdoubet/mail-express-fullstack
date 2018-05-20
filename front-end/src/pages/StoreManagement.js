@@ -1,10 +1,26 @@
 import React, {Component, Fragment} from 'react'
 
+//import allproducts query
+import loadProducts from '../config/apiQueries'
+
+import EditProduct from '../components/EditProduct'
+
 export default class extends Component {
+    state = { products: [] };
+
+    async componentDidMount(){
+        const p = await loadProducts();
+        this.setState({products: p})
+    }
     render() {
+        const products = this.state.products
         return (
             <Fragment>
-                <h1>My New React Component</h1>
+                {products[0] ?
+                    products.map(product =>  <EditProduct product = {product}/> )
+
+                    : <p>loading products</p>}
+
             </Fragment>
         );
     }
