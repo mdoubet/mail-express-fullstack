@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../mail-express-plus-store/.idea/custom-prismas.iml" filepath="$PROJECT_DIR$/../mail-express-plus-store/.idea/custom-prismas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mail-express-plus-store/.idea/Mail Express Plus Store.iml" filepath="$PROJECT_DIR$/../mail-express-plus-store/.idea/Mail Express Plus Store.iml" />
     </modules>
   </component>
 </project>

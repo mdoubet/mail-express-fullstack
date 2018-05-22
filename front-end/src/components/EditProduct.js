@@ -44,6 +44,9 @@ export default class extends Component {
                 {
                     mutation: gql`
                         mutation{
+                            deleteManyDetails(where:{product:{id:"${product.id}"}}){
+                                count
+                            }
                             deleteProduct(where: {id:"${product.id}"}){
                                 name
                                 highlight1
@@ -54,8 +57,8 @@ export default class extends Component {
                         }
                     `
                 }
-            ).then( result => result.data.product);
-            console.log(prod, " has been deleted!!!");
+            ).then( result => result.data);
+            console.log(prod.name, " has been deleted!!! with details #", prod.count );
         }
         const renderProduct = () => {
             return (
@@ -75,7 +78,7 @@ export default class extends Component {
                         <TextField id="name-line-2" defaultValue={product.nameLine2} onChange={e => updateFields.nameLine2 = `nameLine2 : "${e.target.value}",`}/>
                         <TextField id="model" defaultValue={product.model} onChange={e => updateFields.model = `model : "${e.target.value}",`}/>
                         <TextField id="price" defaultValue={product.price} onChange={e => updateFields.price = `price : ${e.target.value},`}/>
-                        <TextField id="highlight1" defaultValue={product.highlight1} onChange={e => updateFields.highilight1 = `highlight1 : "${e.target.value}",`}/>
+                        <TextField id="highlight1" defaultValue={product.highlight1} onChange={e => updateFields.highlight1 = `highlight1 : "${e.target.value}",`}/>
                         <TextField id="highlight2" defaultValue={product.highlight2} onChange={e => updateFields.highlight2 = `highlight2 : "${e.target.value}",`}/>
                         <TextField id="imageURL" defaultValue={product.imageURL} onChange={e => updateFields.imageURL = `imageURL : "${e.target.value}",`}/>
                         <TextField id="path" defaultValue={product.path} onChange={e => updateFields.path = `path : "${e.target.value}",`}/>

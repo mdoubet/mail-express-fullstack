@@ -8,14 +8,14 @@ type Product {
   nameLine1: String!
   nameLine2: String!
   imageURL: String @default(value: "./noimage.png")
-  details: [Detail!]!
+  details: [Detail!]! @relation(name: "ProductDetails", cascadeDelete: true)
   categories: [Category!]! @relation(name: "ProductCategories")
   quantityInStock: Int! @default(value: 0)
   path: String @default(value: "./")
 }
 
 type Detail{
-  product: Product!
+  product: Product! @relation(name: "ProductDetails", cascadeDelete: false)
   property: String!
   value: String!
 }
@@ -35,7 +35,7 @@ type User{
   password: String!
   favorites: [Product!]! @relation (name: "UserFavorites")
   cart: Cart
-  role: Role!
+  roles: [Role!]!
 }
 
 enum Role {
