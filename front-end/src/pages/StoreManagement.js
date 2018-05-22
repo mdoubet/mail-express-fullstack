@@ -22,7 +22,7 @@ export default class extends Component {
         return (
             <Fragment>
 
-               <AddProductModal/>
+                <div style={{display: 'flex', flexDirection: 'row'}}><h1>Store Management</h1><AddProductModal/></div>
                 {products[0] ?
                     products.map(product =>  <EditProduct product = {product}/> )
 

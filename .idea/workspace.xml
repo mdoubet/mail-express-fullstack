@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StoreManagement.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StoreManagement.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/StoreManagement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="224">
+              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
               <folding>
                 <element signature="e#79#126#0" expanded="true" />
               </folding>
@@ -26,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddProductModal.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AddProductModal.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/AddProductModal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="31" column="6" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+            <state relative-caret-position="398">
+              <caret line="105" column="35" lean-forward="true" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="59" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
                 <element signature="e#321#351#0" expanded="true" />
@@ -65,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/build/_redirects">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -84,9 +84,46 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-173">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="161">
+              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="16" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zunittest.test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/tests/zunittest.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1058">
+              <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+              <folding>
+                <element signature="e#80#105#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+                <element signature="e#217#259#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Routing.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/config/Routing.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,117 +131,58 @@
       <file leaf-file-name="EditProduct.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/EditProduct.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="85" column="77" lean-forward="true" selection-start-line="85" selection-start-column="77" selection-end-line="85" selection-end-column="77" />
+            <state relative-caret-position="931">
+              <caret line="99" column="31" lean-forward="true" selection-start-line="99" selection-start-column="31" selection-end-line="99" selection-end-column="31" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
-                <marker date="1526954031078" expanded="true" signature="897:1174" ph="mutation...{&#10;                            updateProduct(data: {price: $} where:{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}){&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }&#10;                        }" />
-                <marker date="1526954031078" expanded="true" signature="905:1174" ph="{...}" />
-                <marker date="1526954031078" expanded="true" signature="935:948" ph="updateProduct...updateProduct" />
-                <marker date="1526954031078" expanded="true" signature="935:1149" ph="updateProduct...{&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }" />
-                <marker date="1526954031078" expanded="true" signature="935:1174" ph="updateProduct...(data: {price: ${this.state.price}&quot;} where:{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}){&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }&#10;                        }" />
-                <marker date="1526954031078" expanded="true" signature="948:980" ph="(...data: {price: ${}}" />
-                <marker date="1526954031078" expanded="true" signature="948:1009" ph="(...)" />
-                <marker date="1526954031078" expanded="true" signature="949:953" ph="data...data" />
-                <marker date="1526954031078" expanded="true" signature="949:980" ph="data...{price: $}" />
-                <marker date="1526954031078" expanded="true" signature="955:956" ph="{...{}" />
-                <marker date="1526954031078" expanded="true" signature="955:980" ph="{...}" />
-                <marker date="1526954031078" expanded="true" signature="981:986" ph="where...where" />
-                <marker date="1526954031078" expanded="true" signature="981:1008" ph="where...{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}" />
-                <marker date="1526954031078" expanded="true" signature="987:1008" ph="{...}" />
-                <marker date="1526954031078" expanded="true" signature="988:990" ph="id...id" />
-                <marker date="1526954031078" expanded="true" signature="993:1006" ph="cjgvmvg56w7y60b06wklpp342...cjgvmvg56w7y60b06wklpp342" />
-                <marker date="1526954031078" expanded="true" signature="1009:1119" ph="{...}" />
-                <marker date="1526954031078" expanded="true" signature="1009:1149" ph="{...}" />
-                <marker date="1526954031078" expanded="true" signature="1043:1047" ph="name...name" />
-                <marker date="1526954031078" expanded="true" signature="1080:1085" ph="price...price" />
-                <marker date="1526954031078" expanded="true" signature="1085:1119" ph="details...{&#10;                                    value&#10;                                }" />
-                <marker date="1526954031078" expanded="true" signature="1455:1907" ph="mutation...{&#10;                            deleteProduct(where: {id:&quot;cjgwt464w9fe50b06ihlqg0ao&quot;}){&#10;                                name&#10;                                highlight1&#10;                                highlight2&#10;                                price&#10;&#10;                            }&#10;                        }" />
-                <marker date="1526954031078" expanded="true" signature="1463:1907" ph="{...}" />
-                <marker date="1526954031078" expanded="true" signature="1493:1510" ph="deleteManyDetails...deleteManyDetails" />
-                <marker date="1526954031078" expanded="true" signature="1493:1617" ph="deleteManyDetails...{&#10;                                count&#10;                            }" />
-                <marker date="1526954031078" expanded="true" signature="1510:1548" ph="(...)" />
-                <marker date="1526954031078" expanded="true" signature="1511:1516" ph="where...where" />
-                <marker date="1526954031078" expanded="true" signature="1511:1547" ph="where...{product:{id:&quot;cjhe1tqslc8vh0b6262pd1m9z&quot;}}" />
-                <marker date="1526954031078" expanded="true" signature="1517:1547" ph="{...}" />
-                <marker date="1526954031078" expanded="true" signature="1518:1525" ph="product...product" />
-                <marker date="1526954031078" expanded="true" signature="1518:1546" ph="product...{id:&quot;cjhe1tqslc8vh0b6262pd1m9z&quot;}" />
-                <marker date="1526954031078" expanded="true" signature="1526:1546" ph="{...}" />
-                <marker date="1526954031078" expanded="true" signature="1527:1529" ph="id...id" />
-                <marker date="1526954031078" expanded="true" signature="1548:1617" ph="{...}" />
-                <marker date="1526954031078" expanded="true" signature="1582:1587" ph="count...count" />
-                <marker date="1526954031078" expanded="true" signature="1646:1659" ph="deleteProduct...deleteProduct" />
-                <marker date="1526954031078" expanded="true" signature="1646:1881" ph="deleteProduct...{&#10;                                name&#10;                                highlight1&#10;                                highlight2&#10;                                price&#10;&#10;                            }" />
-                <marker date="1526954031078" expanded="true" signature="1659:1688" ph="(...)" />
-                <marker date="1526954031078" expanded="true" signature="1660:1665" ph="where...where" />
-                <marker date="1526954031078" expanded="true" signature="1660:1687" ph="where...{id:&quot;cjgwt464w9fe50b06ihlqg0ao&quot;}" />
-                <marker date="1526954031078" expanded="true" signature="1667:1687" ph="{...}" />
-                <marker date="1526954031078" expanded="true" signature="1668:1670" ph="id...id" />
-                <marker date="1526954031078" expanded="true" signature="1688:1881" ph="{...}" />
-                <marker date="1526954031078" expanded="true" signature="1722:1726" ph="name...name" />
-                <marker date="1526954031078" expanded="true" signature="1759:1769" ph="highlight1...highlight1" />
-                <marker date="1526954031078" expanded="true" signature="1802:1812" ph="highlight2...highlight2" />
-                <marker date="1526954031078" expanded="true" signature="1845:1850" ph="price...price" />
-                <marker date="1526954031078" expanded="true" signature="1906:1907" ph="mutation...{&#10;                            updateProduct(data: {${await dataToUpdate()}} where:{id: &quot;${product.id}&quot;}){&#10;                                name&#10;                                price&#10;                            }&#10;                        }" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Product.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/Product.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="943">
-              <caret line="41" column="61" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="41" selection-end-column="61" />
-              <folding>
-                <element signature="e#0#48#0" expanded="true" />
-                <marker date="1526177814243" expanded="true" signature="2320:2644" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductPage.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/ProductPage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#48#0" expanded="true" />
-                <element signature="e#204#247#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="apiQueries.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/config/apiQueries.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="29" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-                <marker date="1526613896982" expanded="true" signature="188:751" ph="query...{&#10;                    products{&#10;                        name&#10;                        nameLine1&#10;                        nameLine2&#10;                        id&#10;                        model&#10;                        imageURL&#10;                        highlight1&#10;                        highlight2&#10;                        price&#10;                        details{&#10;                            property&#10;                            value&#10;                        }&#10;                        path&#10;                        quantityInStock&#10;                    }&#10;                }" />
-                <marker date="1526613896982" expanded="true" signature="194:751" ph="{...}" />
-                <marker date="1526613896982" expanded="true" signature="216:224" ph="products...products" />
-                <marker date="1526613896982" expanded="true" signature="216:733" ph="products...{&#10;                        name&#10;                        nameLine1&#10;                        nameLine2&#10;                        id&#10;                        model&#10;                        imageURL&#10;                        highlight1&#10;                        highlight2&#10;                        price&#10;                        details{&#10;                            property&#10;                            value&#10;                        }&#10;                        path&#10;                        quantityInStock&#10;                    }" />
-                <marker date="1526613896982" expanded="true" signature="224:733" ph="{...}" />
-                <marker date="1526613896982" expanded="true" signature="250:254" ph="name...name" />
-                <marker date="1526613896982" expanded="true" signature="279:288" ph="nameLine1...nameLine1" />
-                <marker date="1526613896982" expanded="true" signature="313:322" ph="nameLine2...nameLine2" />
-                <marker date="1526613896982" expanded="true" signature="347:349" ph="id...id" />
-                <marker date="1526613896982" expanded="true" signature="374:379" ph="model...model" />
-                <marker date="1526613896982" expanded="true" signature="404:412" ph="imageURL...imageURL" />
-                <marker date="1526613896982" expanded="true" signature="437:447" ph="highlight1...highlight1" />
-                <marker date="1526613896982" expanded="true" signature="472:482" ph="highlight2...highlight2" />
-                <marker date="1526613896982" expanded="true" signature="507:512" ph="price...price" />
-                <marker date="1526613896982" expanded="true" signature="537:544" ph="details...details" />
-                <marker date="1526613896982" expanded="true" signature="537:642" ph="details...{&#10;                            property&#10;                            value&#10;                        }" />
-                <marker date="1526613896982" expanded="true" signature="544:642" ph="{...}" />
-                <marker date="1526613896982" expanded="true" signature="574:582" ph="property...property" />
-                <marker date="1526613896982" expanded="true" signature="611:616" ph="value...value" />
-                <marker date="1526613896982" expanded="true" signature="667:671" ph="path...path" />
-                <marker date="1526613896982" expanded="true" signature="696:711" ph="quantityInStock...quantityInStock" />
+                <marker date="1527020518202" expanded="true" signature="1187:1464" ph="mutation...{&#10;                            updateProduct(data: {price: $} where:{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}){&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }&#10;                        }" />
+                <marker date="1527020518202" expanded="true" signature="1195:1464" ph="{...}" />
+                <marker date="1527020518202" expanded="true" signature="1225:1238" ph="updateProduct...updateProduct" />
+                <marker date="1527020518202" expanded="true" signature="1225:1439" ph="updateProduct...{&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }" />
+                <marker date="1527020518202" expanded="true" signature="1225:1464" ph="updateProduct...(data: {price: ${this.state.price}&quot;} where:{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}){&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }&#10;                        }" />
+                <marker date="1527020518202" expanded="true" signature="1238:1270" ph="(...data: {price: ${}}" />
+                <marker date="1527020518202" expanded="true" signature="1238:1299" ph="(...)" />
+                <marker date="1527020518202" expanded="true" signature="1239:1243" ph="data...data" />
+                <marker date="1527020518202" expanded="true" signature="1239:1270" ph="data...{price: $}" />
+                <marker date="1527020518202" expanded="true" signature="1245:1246" ph="{...{}" />
+                <marker date="1527020518202" expanded="true" signature="1245:1270" ph="{...}" />
+                <marker date="1527020518202" expanded="true" signature="1271:1276" ph="where...where" />
+                <marker date="1527020518202" expanded="true" signature="1271:1298" ph="where...{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}" />
+                <marker date="1527020518202" expanded="true" signature="1277:1298" ph="{...}" />
+                <marker date="1527020518202" expanded="true" signature="1278:1280" ph="id...id" />
+                <marker date="1527020518202" expanded="true" signature="1283:1296" ph="cjgvmvg56w7y60b06wklpp342...cjgvmvg56w7y60b06wklpp342" />
+                <marker date="1527020518202" expanded="true" signature="1299:1409" ph="{...}" />
+                <marker date="1527020518202" expanded="true" signature="1299:1439" ph="{...}" />
+                <marker date="1527020518202" expanded="true" signature="1333:1337" ph="name...name" />
+                <marker date="1527020518202" expanded="true" signature="1370:1375" ph="price...price" />
+                <marker date="1527020518202" expanded="true" signature="1375:1409" ph="details...{&#10;                                    value&#10;                                }" />
+                <marker date="1527020518202" expanded="true" signature="1745:2197" ph="mutation...{&#10;                            deleteProduct(where: {id:&quot;cjgwt464w9fe50b06ihlqg0ao&quot;}){&#10;                                name&#10;                                highlight1&#10;                                highlight2&#10;                                price&#10;&#10;                            }&#10;                        }" />
+                <marker date="1527020518202" expanded="true" signature="1753:2197" ph="{...}" />
+                <marker date="1527020518202" expanded="true" signature="1783:1800" ph="deleteManyDetails...deleteManyDetails" />
+                <marker date="1527020518202" expanded="true" signature="1783:1907" ph="deleteManyDetails...{&#10;                                count&#10;                            }" />
+                <marker date="1527020518202" expanded="true" signature="1800:1838" ph="(...)" />
+                <marker date="1527020518202" expanded="true" signature="1801:1806" ph="where...where" />
+                <marker date="1527020518202" expanded="true" signature="1801:1837" ph="where...{product:{id:&quot;cjhe1tqslc8vh0b6262pd1m9z&quot;}}" />
+                <marker date="1527020518202" expanded="true" signature="1807:1837" ph="{...}" />
+                <marker date="1527020518202" expanded="true" signature="1808:1815" ph="product...product" />
+                <marker date="1527020518202" expanded="true" signature="1808:1836" ph="product...{id:&quot;cjhe1tqslc8vh0b6262pd1m9z&quot;}" />
+                <marker date="1527020518202" expanded="true" signature="1816:1836" ph="{...}" />
+                <marker date="1527020518202" expanded="true" signature="1817:1819" ph="id...id" />
+                <marker date="1527020518202" expanded="true" signature="1838:1907" ph="{...}" />
+                <marker date="1527020518202" expanded="true" signature="1872:1877" ph="count...count" />
+                <marker date="1527020518202" expanded="true" signature="1936:1949" ph="deleteProduct...deleteProduct" />
+                <marker date="1527020518202" expanded="true" signature="1936:2171" ph="deleteProduct...{&#10;                                name&#10;                                highlight1&#10;                                highlight2&#10;                                price&#10;&#10;                            }" />
+                <marker date="1527020518202" expanded="true" signature="1949:1978" ph="(...)" />
+                <marker date="1527020518202" expanded="true" signature="1950:1955" ph="where...where" />
+                <marker date="1527020518202" expanded="true" signature="1950:1977" ph="where...{id:&quot;cjgwt464w9fe50b06ihlqg0ao&quot;}" />
+                <marker date="1527020518202" expanded="true" signature="1957:1977" ph="{...}" />
+                <marker date="1527020518202" expanded="true" signature="1958:1960" ph="id...id" />
+                <marker date="1527020518202" expanded="true" signature="1978:2171" ph="{...}" />
+                <marker date="1527020518202" expanded="true" signature="2012:2016" ph="name...name" />
+                <marker date="1527020518202" expanded="true" signature="2049:2059" ph="highlight1...highlight1" />
+                <marker date="1527020518202" expanded="true" signature="2092:2102" ph="highlight2...highlight2" />
+                <marker date="1527020518202" expanded="true" signature="2135:2140" ph="price...price" />
+                <marker date="1527020518202" expanded="true" signature="2196:2197" ph="mutation...{&#10;                            updateProduct(data: {${await dataToUpdate()}} where:{id: &quot;${product.id}&quot;}){&#10;                                name&#10;                                price&#10;                            }&#10;                        }" />
               </folding>
             </state>
           </provider>
@@ -253,11 +231,15 @@
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/App.js" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/ProductPage.js" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/config/apiQueries.js" />
-        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/StoreManagement.js" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/back-end/datamodel.graphql" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/build/static/_redirects" />
-        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/EditProduct.js" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/AddProductModal.js" />
+        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/build/_redirects" />
+        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/zunittest.test.js" />
+        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/package.json" />
+        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/tests/zunittest.test.js" />
+        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/EditProduct.js" />
+        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/StoreManagement.js" />
       </list>
     </option>
   </component>
@@ -266,6 +248,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/../mail-express-plus-store/front-end/node_modules" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
@@ -336,6 +321,31 @@
             </path>
             <path>
               <item name="custom-prismas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mail-express-plus-store" type="462c0819:PsiDirectoryNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="custom-prismas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mail-express-plus-store" type="462c0819:PsiDirectoryNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="custom-prismas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mail-express-plus-store" type="462c0819:PsiDirectoryNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="custom-prismas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mail-express-plus-store" type="462c0819:PsiDirectoryNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="custom-prismas" type="b2602c69:ProjectViewProjectNode" />
               <item name="GraphQL Schemas" type="390a5855:JSGraphQLSchemaDirectoryNode" />
             </path>
           </expand>
@@ -354,6 +364,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/tests" />
       <recent name="$PROJECT_DIR$/../mail-express-plus-store/front-end/build" />
       <recent name="$PROJECT_DIR$/back-end" />
     </key>
@@ -383,15 +394,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525536293074</updated>
-      <workItem from="1525536299831" duration="66224000" />
+      <workItem from="1525536299831" duration="71058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66224000" />
+    <option name="totallyTimeSpent" value="71058000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5024665" order="0" side_tool="true" content_ui="tabs" />
@@ -399,7 +411,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Quokka" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -558,27 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/config/Routing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="111" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-            <element signature="e#217#259#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/MenuBar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
@@ -594,7 +585,7 @@
         <state relative-caret-position="943">
           <caret line="41" column="61" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="41" selection-end-column="61" />
           <folding>
-            <element signature="e#0#48#0" expanded="true" />
+            <element signature="e#0#48#0" expanded="false" />
             <marker date="1526177814243" expanded="true" signature="2320:2644" ph="..." />
           </folding>
         </state>
@@ -605,8 +596,8 @@
         <state relative-caret-position="600">
           <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding>
-            <element signature="e#0#48#0" expanded="true" />
-            <element signature="e#204#247#0" expanded="true" />
+            <element signature="e#0#48#0" expanded="false" />
+            <element signature="e#204#247#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -616,7 +607,7 @@
         <state relative-caret-position="667">
           <caret line="29" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="false" />
             <marker date="1526613896982" expanded="true" signature="188:751" ph="query...{&#10;                    products{&#10;                        name&#10;                        nameLine1&#10;                        nameLine2&#10;                        id&#10;                        model&#10;                        imageURL&#10;                        highlight1&#10;                        highlight2&#10;                        price&#10;                        details{&#10;                            property&#10;                            value&#10;                        }&#10;                        path&#10;                        quantityInStock&#10;                    }&#10;                }" />
             <marker date="1526613896982" expanded="true" signature="194:751" ph="{...}" />
             <marker date="1526613896982" expanded="true" signature="216:224" ph="products...products" />
@@ -642,16 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/StoreManagement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#79#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/back-end/datamodel.graphql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
@@ -663,7 +644,7 @@
     <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/build/_redirects">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -676,76 +657,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <element signature="e#217#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/config/Routing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-173">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="161">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/EditProduct.js">
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/tests/zunittest.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="85" column="77" lean-forward="true" selection-start-line="85" selection-start-column="77" selection-end-line="85" selection-end-column="77" />
+        <state relative-caret-position="1058">
+          <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
           <folding>
-            <element signature="e#0#48#0" expanded="true" />
-            <marker date="1526954031078" expanded="true" signature="897:1174" ph="mutation...{&#10;                            updateProduct(data: {price: $} where:{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}){&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }&#10;                        }" />
-            <marker date="1526954031078" expanded="true" signature="905:1174" ph="{...}" />
-            <marker date="1526954031078" expanded="true" signature="935:948" ph="updateProduct...updateProduct" />
-            <marker date="1526954031078" expanded="true" signature="935:1149" ph="updateProduct...{&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }" />
-            <marker date="1526954031078" expanded="true" signature="935:1174" ph="updateProduct...(data: {price: ${this.state.price}&quot;} where:{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}){&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }&#10;                        }" />
-            <marker date="1526954031078" expanded="true" signature="948:980" ph="(...data: {price: ${}}" />
-            <marker date="1526954031078" expanded="true" signature="948:1009" ph="(...)" />
-            <marker date="1526954031078" expanded="true" signature="949:953" ph="data...data" />
-            <marker date="1526954031078" expanded="true" signature="949:980" ph="data...{price: $}" />
-            <marker date="1526954031078" expanded="true" signature="955:956" ph="{...{}" />
-            <marker date="1526954031078" expanded="true" signature="955:980" ph="{...}" />
-            <marker date="1526954031078" expanded="true" signature="981:986" ph="where...where" />
-            <marker date="1526954031078" expanded="true" signature="981:1008" ph="where...{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}" />
-            <marker date="1526954031078" expanded="true" signature="987:1008" ph="{...}" />
-            <marker date="1526954031078" expanded="true" signature="988:990" ph="id...id" />
-            <marker date="1526954031078" expanded="true" signature="993:1006" ph="cjgvmvg56w7y60b06wklpp342...cjgvmvg56w7y60b06wklpp342" />
-            <marker date="1526954031078" expanded="true" signature="1009:1119" ph="{...}" />
-            <marker date="1526954031078" expanded="true" signature="1009:1149" ph="{...}" />
-            <marker date="1526954031078" expanded="true" signature="1043:1047" ph="name...name" />
-            <marker date="1526954031078" expanded="true" signature="1080:1085" ph="price...price" />
-            <marker date="1526954031078" expanded="true" signature="1085:1119" ph="details...{&#10;                                    value&#10;                                }" />
-            <marker date="1526954031078" expanded="true" signature="1455:1907" ph="mutation...{&#10;                            deleteProduct(where: {id:&quot;cjgwt464w9fe50b06ihlqg0ao&quot;}){&#10;                                name&#10;                                highlight1&#10;                                highlight2&#10;                                price&#10;&#10;                            }&#10;                        }" />
-            <marker date="1526954031078" expanded="true" signature="1463:1907" ph="{...}" />
-            <marker date="1526954031078" expanded="true" signature="1493:1510" ph="deleteManyDetails...deleteManyDetails" />
-            <marker date="1526954031078" expanded="true" signature="1493:1617" ph="deleteManyDetails...{&#10;                                count&#10;                            }" />
-            <marker date="1526954031078" expanded="true" signature="1510:1548" ph="(...)" />
-            <marker date="1526954031078" expanded="true" signature="1511:1516" ph="where...where" />
-            <marker date="1526954031078" expanded="true" signature="1511:1547" ph="where...{product:{id:&quot;cjhe1tqslc8vh0b6262pd1m9z&quot;}}" />
-            <marker date="1526954031078" expanded="true" signature="1517:1547" ph="{...}" />
-            <marker date="1526954031078" expanded="true" signature="1518:1525" ph="product...product" />
-            <marker date="1526954031078" expanded="true" signature="1518:1546" ph="product...{id:&quot;cjhe1tqslc8vh0b6262pd1m9z&quot;}" />
-            <marker date="1526954031078" expanded="true" signature="1526:1546" ph="{...}" />
-            <marker date="1526954031078" expanded="true" signature="1527:1529" ph="id...id" />
-            <marker date="1526954031078" expanded="true" signature="1548:1617" ph="{...}" />
-            <marker date="1526954031078" expanded="true" signature="1582:1587" ph="count...count" />
-            <marker date="1526954031078" expanded="true" signature="1646:1659" ph="deleteProduct...deleteProduct" />
-            <marker date="1526954031078" expanded="true" signature="1646:1881" ph="deleteProduct...{&#10;                                name&#10;                                highlight1&#10;                                highlight2&#10;                                price&#10;&#10;                            }" />
-            <marker date="1526954031078" expanded="true" signature="1659:1688" ph="(...)" />
-            <marker date="1526954031078" expanded="true" signature="1660:1665" ph="where...where" />
-            <marker date="1526954031078" expanded="true" signature="1660:1687" ph="where...{id:&quot;cjgwt464w9fe50b06ihlqg0ao&quot;}" />
-            <marker date="1526954031078" expanded="true" signature="1667:1687" ph="{...}" />
-            <marker date="1526954031078" expanded="true" signature="1668:1670" ph="id...id" />
-            <marker date="1526954031078" expanded="true" signature="1688:1881" ph="{...}" />
-            <marker date="1526954031078" expanded="true" signature="1722:1726" ph="name...name" />
-            <marker date="1526954031078" expanded="true" signature="1759:1769" ph="highlight1...highlight1" />
-            <marker date="1526954031078" expanded="true" signature="1802:1812" ph="highlight2...highlight2" />
-            <marker date="1526954031078" expanded="true" signature="1845:1850" ph="price...price" />
-            <marker date="1526954031078" expanded="true" signature="1906:1907" ph="mutation...{&#10;                            updateProduct(data: {${await dataToUpdate()}} where:{id: &quot;${product.id}&quot;}){&#10;                                name&#10;                                price&#10;                            }&#10;                        }" />
+            <element signature="e#80#105#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/AddProductModal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="31" column="6" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        <state relative-caret-position="398">
+          <caret line="105" column="35" lean-forward="true" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="59" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
             <element signature="e#321#351#0" expanded="true" />
@@ -771,6 +725,74 @@
             <marker date="1526955219251" expanded="true" signature="1858:1862" ph="name...name" />
             <marker date="1526955219251" expanded="true" signature="1887:1897" ph="highlight1...highlight1" />
             <marker date="1526955219251" expanded="true" signature="1922:1932" ph="highlight2...highlight2" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/EditProduct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="99" column="31" lean-forward="true" selection-start-line="99" selection-start-column="31" selection-end-line="99" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1527020518202" expanded="true" signature="1187:1464" ph="mutation...{&#10;                            updateProduct(data: {price: $} where:{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}){&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }&#10;                        }" />
+            <marker date="1527020518202" expanded="true" signature="1195:1464" ph="{...}" />
+            <marker date="1527020518202" expanded="true" signature="1225:1238" ph="updateProduct...updateProduct" />
+            <marker date="1527020518202" expanded="true" signature="1225:1439" ph="updateProduct...{&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }" />
+            <marker date="1527020518202" expanded="true" signature="1225:1464" ph="updateProduct...(data: {price: ${this.state.price}&quot;} where:{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}){&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }&#10;                        }" />
+            <marker date="1527020518202" expanded="true" signature="1238:1270" ph="(...data: {price: ${}}" />
+            <marker date="1527020518202" expanded="true" signature="1238:1299" ph="(...)" />
+            <marker date="1527020518202" expanded="true" signature="1239:1243" ph="data...data" />
+            <marker date="1527020518202" expanded="true" signature="1239:1270" ph="data...{price: $}" />
+            <marker date="1527020518202" expanded="true" signature="1245:1246" ph="{...{}" />
+            <marker date="1527020518202" expanded="true" signature="1245:1270" ph="{...}" />
+            <marker date="1527020518202" expanded="true" signature="1271:1276" ph="where...where" />
+            <marker date="1527020518202" expanded="true" signature="1271:1298" ph="where...{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}" />
+            <marker date="1527020518202" expanded="true" signature="1277:1298" ph="{...}" />
+            <marker date="1527020518202" expanded="true" signature="1278:1280" ph="id...id" />
+            <marker date="1527020518202" expanded="true" signature="1283:1296" ph="cjgvmvg56w7y60b06wklpp342...cjgvmvg56w7y60b06wklpp342" />
+            <marker date="1527020518202" expanded="true" signature="1299:1409" ph="{...}" />
+            <marker date="1527020518202" expanded="true" signature="1299:1439" ph="{...}" />
+            <marker date="1527020518202" expanded="true" signature="1333:1337" ph="name...name" />
+            <marker date="1527020518202" expanded="true" signature="1370:1375" ph="price...price" />
+            <marker date="1527020518202" expanded="true" signature="1375:1409" ph="details...{&#10;                                    value&#10;                                }" />
+            <marker date="1527020518202" expanded="true" signature="1745:2197" ph="mutation...{&#10;                            deleteProduct(where: {id:&quot;cjgwt464w9fe50b06ihlqg0ao&quot;}){&#10;                                name&#10;                                highlight1&#10;                                highlight2&#10;                                price&#10;&#10;                            }&#10;                        }" />
+            <marker date="1527020518202" expanded="true" signature="1753:2197" ph="{...}" />
+            <marker date="1527020518202" expanded="true" signature="1783:1800" ph="deleteManyDetails...deleteManyDetails" />
+            <marker date="1527020518202" expanded="true" signature="1783:1907" ph="deleteManyDetails...{&#10;                                count&#10;                            }" />
+            <marker date="1527020518202" expanded="true" signature="1800:1838" ph="(...)" />
+            <marker date="1527020518202" expanded="true" signature="1801:1806" ph="where...where" />
+            <marker date="1527020518202" expanded="true" signature="1801:1837" ph="where...{product:{id:&quot;cjhe1tqslc8vh0b6262pd1m9z&quot;}}" />
+            <marker date="1527020518202" expanded="true" signature="1807:1837" ph="{...}" />
+            <marker date="1527020518202" expanded="true" signature="1808:1815" ph="product...product" />
+            <marker date="1527020518202" expanded="true" signature="1808:1836" ph="product...{id:&quot;cjhe1tqslc8vh0b6262pd1m9z&quot;}" />
+            <marker date="1527020518202" expanded="true" signature="1816:1836" ph="{...}" />
+            <marker date="1527020518202" expanded="true" signature="1817:1819" ph="id...id" />
+            <marker date="1527020518202" expanded="true" signature="1838:1907" ph="{...}" />
+            <marker date="1527020518202" expanded="true" signature="1872:1877" ph="count...count" />
+            <marker date="1527020518202" expanded="true" signature="1936:1949" ph="deleteProduct...deleteProduct" />
+            <marker date="1527020518202" expanded="true" signature="1936:2171" ph="deleteProduct...{&#10;                                name&#10;                                highlight1&#10;                                highlight2&#10;                                price&#10;&#10;                            }" />
+            <marker date="1527020518202" expanded="true" signature="1949:1978" ph="(...)" />
+            <marker date="1527020518202" expanded="true" signature="1950:1955" ph="where...where" />
+            <marker date="1527020518202" expanded="true" signature="1950:1977" ph="where...{id:&quot;cjgwt464w9fe50b06ihlqg0ao&quot;}" />
+            <marker date="1527020518202" expanded="true" signature="1957:1977" ph="{...}" />
+            <marker date="1527020518202" expanded="true" signature="1958:1960" ph="id...id" />
+            <marker date="1527020518202" expanded="true" signature="1978:2171" ph="{...}" />
+            <marker date="1527020518202" expanded="true" signature="2012:2016" ph="name...name" />
+            <marker date="1527020518202" expanded="true" signature="2049:2059" ph="highlight1...highlight1" />
+            <marker date="1527020518202" expanded="true" signature="2092:2102" ph="highlight2...highlight2" />
+            <marker date="1527020518202" expanded="true" signature="2135:2140" ph="price...price" />
+            <marker date="1527020518202" expanded="true" signature="2196:2197" ph="mutation...{&#10;                            updateProduct(data: {${await dataToUpdate()}} where:{id: &quot;${product.id}&quot;}){&#10;                                name&#10;                                price&#10;                            }&#10;                        }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/StoreManagement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="e#79#126#0" expanded="true" />
           </folding>
         </state>
       </provider>
