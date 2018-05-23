@@ -7,6 +7,8 @@ import FlatButton from 'material-ui/FlatButton';
 import MoreVertIcon from 'material-ui/svg-icons/navigation/more-vert';
 import NavigationClose from 'material-ui/svg-icons/navigation/close';
 
+import NavigationDrawer from '../components/NavigationDrawer'
+
 class Login extends Component {
     static muiName = 'FlatButton';
 
@@ -41,11 +43,16 @@ Logged.muiName = 'IconMenu';
 export default class extends Component {
     state = {
         logged: true,
+        open: false
     };
 
     handleChange = (event, logged) => {
         this.setState({logged: logged});
     };
+
+    toggleOpen = () => {
+        this.setState(() => ({open: (!this.state.open)}))
+    }
 
     render() {
         return (
@@ -54,9 +61,12 @@ export default class extends Component {
                 <AppBar
                     style = {{backgroundColor: "#1976D2"}}
                     title="Mail Express +"
-                    // iconElementLeft={<IconButton><NavigationClose /></IconButton>}
+                    onLeftIconButtonClick = {this.toggleOpen}
+                    //iconElementLeft={<IconButton><NavigationClose /></IconButton>}
                     iconElementRight={this.state.logged ? <Logged /> : <Login />}
                 />
+                <NavigationDrawer open={this.state.open}
+                              change={this.toggleOpen}/>
             </div>
         );
     }

@@ -1,5 +1,4 @@
 import React, {Component, Fragment} from 'react'
-import MenuBar from '../components/MenuBar'
 
 //imports for graphql query
 import loadProducts from '../config/apiQueries'

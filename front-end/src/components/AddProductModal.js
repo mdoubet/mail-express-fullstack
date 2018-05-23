@@ -1,9 +1,11 @@
 import React, {Component, Fragment}  from 'react';
+
+// material-ui imports
+// use dialog for a modal that can only be closed by clicking an action button (like cancel or submit)
 import Dialog from 'material-ui/Dialog';
 import FlatButton from 'material-ui/FlatButton';
 import IconButton from 'material-ui/IconButton'
 import AddBox from 'material-ui/svg-icons/content/add-box'
-
 import TextField from 'material-ui/TextField'
 
 
@@ -12,9 +14,7 @@ import gql from "graphql-tag";
 import {client} from "../config/client";
 
 
-/**
- * A modal dialog can only be closed by selecting one of the actions.
- */
+
 export default class extends Component {
     state = {
         open: false,

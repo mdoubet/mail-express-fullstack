@@ -14,103 +14,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StoreManagement.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/StoreManagement.js">
+      <file leaf-file-name="NavigationDrawer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/NavigationDrawer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="322">
+              <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
-                <element signature="e#79#126#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddProductModal.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/AddProductModal.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="105" column="35" lean-forward="true" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="59" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-                <element signature="e#321#351#0" expanded="true" />
-                <marker date="1526955219251" expanded="true" signature="1165:1972" ph="mutation...{&#10;                    createProduct(data:{&#10;                        model: &quot;SM&quot;,&#10;                        name: &quot;Small Moving Box&quot;,&#10;                        nameLine1: &quot;Small&quot;,&#10;                        nameLine2: &quot;Moving Box&quot;,&#10;                        imageURL: &quot;uhaul-small-box.png&quot;,&#10;                        price: 1.70,&#10;                        highlight1: &quot;dimensions: 16.5 x 12.5 x 12.5&quot;,&#10;                        highlight2: &quot;best used for: smaller items, toys, appliances&quot;,&#10;                        quantityInStock: 50,&#10;                        path: &quot;small-moving-box&quot;&#10;&#10;                    }){&#10;                        name&#10;                        highlight1&#10;                        highlight2&#10;                    }&#10;                }" />
-                <marker date="1526955219251" expanded="true" signature="1173:1972" ph="{...}" />
-                <marker date="1526955219251" expanded="true" signature="1195:1208" ph="createProduct...createProduct" />
-                <marker date="1526955219251" expanded="true" signature="1195:1954" ph="createProduct...{&#10;                        name&#10;                        highlight1&#10;                        highlight2&#10;                    }" />
-                <marker date="1526955219251" expanded="true" signature="1208:1832" ph="(...)" />
-                <marker date="1526955219251" expanded="true" signature="1209:1213" ph="data...data" />
-                <marker date="1526955219251" expanded="true" signature="1209:1831" ph="data...{&#10;                        model: &quot;SM&quot;,&#10;                        name: &quot;Small Moving Box&quot;,&#10;                        nameLine1: &quot;Small&quot;,&#10;                        nameLine2: &quot;Moving Box&quot;,&#10;                        imageURL: &quot;uhaul-small-box.png&quot;,&#10;                        price: 1.70,&#10;                        highlight1: &quot;dimensions: 16.5 x 12.5 x 12.5&quot;,&#10;                        highlight2: &quot;best used for: smaller items, toys, appliances&quot;,&#10;                        quantityInStock: 50,&#10;                        path: &quot;small-moving-box&quot;&#10;&#10;                    }" />
-                <marker date="1526955219251" expanded="true" signature="1214:1831" ph="{...}" />
-                <marker date="1526955219251" expanded="true" signature="1240:1245" ph="model...model" />
-                <marker date="1526955219251" expanded="true" signature="1294:1298" ph="name...name" />
-                <marker date="1526955219251" expanded="true" signature="1346:1355" ph="nameLine1...nameLine1" />
-                <marker date="1526955219251" expanded="true" signature="1408:1417" ph="nameLine2...nameLine2" />
-                <marker date="1526955219251" expanded="true" signature="1470:1478" ph="imageURL...imageURL" />
-                <marker date="1526955219251" expanded="true" signature="1530:1535" ph="price...price" />
-                <marker date="1526955219251" expanded="true" signature="1582:1592" ph="highlight1...highlight1" />
-                <marker date="1526955219251" expanded="true" signature="1646:1656" ph="highlight2...highlight2" />
-                <marker date="1526955219251" expanded="true" signature="1710:1725" ph="quantityInStock...quantityInStock" />
-                <marker date="1526955219251" expanded="true" signature="1782:1786" ph="path...path" />
-                <marker date="1526955219251" expanded="true" signature="1832:1954" ph="{...}" />
-                <marker date="1526955219251" expanded="true" signature="1858:1862" ph="name...name" />
-                <marker date="1526955219251" expanded="true" signature="1887:1897" ph="highlight1...highlight1" />
-                <marker date="1526955219251" expanded="true" signature="1922:1932" ph="highlight2...highlight2" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_redirects" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/build/_redirects">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".netlify" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/.netlify">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zunittest.test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/tests/zunittest.test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1058">
-              <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
-              <folding>
-                <element signature="e#80#105#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#48#0" expanded="true" />
-                <element signature="e#217#259#0" expanded="true" />
+                <element signature="e#0#40#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,8 +29,8 @@
       <file leaf-file-name="Routing.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/config/Routing.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+            <state relative-caret-position="207">
+              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -128,73 +38,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EditProduct.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/EditProduct.js">
+      <file leaf-file-name="Home.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/Home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="931">
-              <caret line="99" column="31" lean-forward="true" selection-start-line="99" selection-start-column="31" selection-end-line="99" selection-end-column="31" />
+            <state relative-caret-position="391">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
-                <marker date="1527020518202" expanded="true" signature="1187:1464" ph="mutation...{&#10;                            updateProduct(data: {price: $} where:{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}){&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }&#10;                        }" />
-                <marker date="1527020518202" expanded="true" signature="1195:1464" ph="{...}" />
-                <marker date="1527020518202" expanded="true" signature="1225:1238" ph="updateProduct...updateProduct" />
-                <marker date="1527020518202" expanded="true" signature="1225:1439" ph="updateProduct...{&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }" />
-                <marker date="1527020518202" expanded="true" signature="1225:1464" ph="updateProduct...(data: {price: ${this.state.price}&quot;} where:{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}){&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }&#10;                        }" />
-                <marker date="1527020518202" expanded="true" signature="1238:1270" ph="(...data: {price: ${}}" />
-                <marker date="1527020518202" expanded="true" signature="1238:1299" ph="(...)" />
-                <marker date="1527020518202" expanded="true" signature="1239:1243" ph="data...data" />
-                <marker date="1527020518202" expanded="true" signature="1239:1270" ph="data...{price: $}" />
-                <marker date="1527020518202" expanded="true" signature="1245:1246" ph="{...{}" />
-                <marker date="1527020518202" expanded="true" signature="1245:1270" ph="{...}" />
-                <marker date="1527020518202" expanded="true" signature="1271:1276" ph="where...where" />
-                <marker date="1527020518202" expanded="true" signature="1271:1298" ph="where...{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}" />
-                <marker date="1527020518202" expanded="true" signature="1277:1298" ph="{...}" />
-                <marker date="1527020518202" expanded="true" signature="1278:1280" ph="id...id" />
-                <marker date="1527020518202" expanded="true" signature="1283:1296" ph="cjgvmvg56w7y60b06wklpp342...cjgvmvg56w7y60b06wklpp342" />
-                <marker date="1527020518202" expanded="true" signature="1299:1409" ph="{...}" />
-                <marker date="1527020518202" expanded="true" signature="1299:1439" ph="{...}" />
-                <marker date="1527020518202" expanded="true" signature="1333:1337" ph="name...name" />
-                <marker date="1527020518202" expanded="true" signature="1370:1375" ph="price...price" />
-                <marker date="1527020518202" expanded="true" signature="1375:1409" ph="details...{&#10;                                    value&#10;                                }" />
-                <marker date="1527020518202" expanded="true" signature="1745:2197" ph="mutation...{&#10;                            deleteProduct(where: {id:&quot;cjgwt464w9fe50b06ihlqg0ao&quot;}){&#10;                                name&#10;                                highlight1&#10;                                highlight2&#10;                                price&#10;&#10;                            }&#10;                        }" />
-                <marker date="1527020518202" expanded="true" signature="1753:2197" ph="{...}" />
-                <marker date="1527020518202" expanded="true" signature="1783:1800" ph="deleteManyDetails...deleteManyDetails" />
-                <marker date="1527020518202" expanded="true" signature="1783:1907" ph="deleteManyDetails...{&#10;                                count&#10;                            }" />
-                <marker date="1527020518202" expanded="true" signature="1800:1838" ph="(...)" />
-                <marker date="1527020518202" expanded="true" signature="1801:1806" ph="where...where" />
-                <marker date="1527020518202" expanded="true" signature="1801:1837" ph="where...{product:{id:&quot;cjhe1tqslc8vh0b6262pd1m9z&quot;}}" />
-                <marker date="1527020518202" expanded="true" signature="1807:1837" ph="{...}" />
-                <marker date="1527020518202" expanded="true" signature="1808:1815" ph="product...product" />
-                <marker date="1527020518202" expanded="true" signature="1808:1836" ph="product...{id:&quot;cjhe1tqslc8vh0b6262pd1m9z&quot;}" />
-                <marker date="1527020518202" expanded="true" signature="1816:1836" ph="{...}" />
-                <marker date="1527020518202" expanded="true" signature="1817:1819" ph="id...id" />
-                <marker date="1527020518202" expanded="true" signature="1838:1907" ph="{...}" />
-                <marker date="1527020518202" expanded="true" signature="1872:1877" ph="count...count" />
-                <marker date="1527020518202" expanded="true" signature="1936:1949" ph="deleteProduct...deleteProduct" />
-                <marker date="1527020518202" expanded="true" signature="1936:2171" ph="deleteProduct...{&#10;                                name&#10;                                highlight1&#10;                                highlight2&#10;                                price&#10;&#10;                            }" />
-                <marker date="1527020518202" expanded="true" signature="1949:1978" ph="(...)" />
-                <marker date="1527020518202" expanded="true" signature="1950:1955" ph="where...where" />
-                <marker date="1527020518202" expanded="true" signature="1950:1977" ph="where...{id:&quot;cjgwt464w9fe50b06ihlqg0ao&quot;}" />
-                <marker date="1527020518202" expanded="true" signature="1957:1977" ph="{...}" />
-                <marker date="1527020518202" expanded="true" signature="1958:1960" ph="id...id" />
-                <marker date="1527020518202" expanded="true" signature="1978:2171" ph="{...}" />
-                <marker date="1527020518202" expanded="true" signature="2012:2016" ph="name...name" />
-                <marker date="1527020518202" expanded="true" signature="2049:2059" ph="highlight1...highlight1" />
-                <marker date="1527020518202" expanded="true" signature="2092:2102" ph="highlight2...highlight2" />
-                <marker date="1527020518202" expanded="true" signature="2135:2140" ph="price...price" />
-                <marker date="1527020518202" expanded="true" signature="2196:2197" ph="mutation...{&#10;                            updateProduct(data: {${await dataToUpdate()}} where:{id: &quot;${product.id}&quot;}){&#10;                                name&#10;                                price&#10;                            }&#10;                        }" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="datamodel.graphql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/back-end/datamodel.graphql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="17" column="74" lean-forward="false" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
-              <folding />
-            </state>
+      <file leaf-file-name="t-shirt.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/images/t-shirt.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wes-mantooth.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/images/wes-mantooth.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lava-lamp.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/images/lava-lamp.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helio-logo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/images/helio-logo.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="funny-t-shirts-top.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/images/funny-t-shirts-top.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coffee-mug.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/images/coffee-mug.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="batman-action-figure.gif" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/images/batman-action-figure.gif">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -204,8 +105,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Vue Single File Component" />
-        <option value="React Component" />
         <option value="JavaScript File" />
+        <option value="React Component" />
       </list>
     </option>
   </component>
@@ -225,21 +126,23 @@
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/public/index.html" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/CategoryInline.js" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/menuBar.js" />
-        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/MenuBar.js" />
-        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/config/Routing.js" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/Product.js" />
-        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/App.js" />
-        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/ProductPage.js" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/config/apiQueries.js" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/back-end/datamodel.graphql" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/build/static/_redirects" />
-        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/AddProductModal.js" />
-        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/build/_redirects" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/zunittest.test.js" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/package.json" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/tests/zunittest.test.js" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/EditProduct.js" />
         <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/StoreManagement.js" />
+        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/build/_redirects" />
+        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/ProductPage.js" />
+        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/AddProductModal.js" />
+        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/App.js" />
+        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/MenuBar.js" />
+        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/NavigationDrawer.js" />
+        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/config/Routing.js" />
+        <option value="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/Home.js" />
       </list>
     </option>
   </component>
@@ -328,7 +231,47 @@
               <item name="custom-prismas" type="b2602c69:ProjectViewProjectNode" />
               <item name="mail-express-plus-store" type="462c0819:PsiDirectoryNode" />
               <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="custom-prismas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mail-express-plus-store" type="462c0819:PsiDirectoryNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="custom-prismas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mail-express-plus-store" type="462c0819:PsiDirectoryNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="custom-prismas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mail-express-plus-store" type="462c0819:PsiDirectoryNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="custom-prismas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mail-express-plus-store" type="462c0819:PsiDirectoryNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="custom-prismas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mail-express-plus-store" type="462c0819:PsiDirectoryNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="custom-prismas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mail-express-plus-store" type="462c0819:PsiDirectoryNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="custom-prismas" type="b2602c69:ProjectViewProjectNode" />
@@ -336,13 +279,6 @@
               <item name="front-end" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="custom-prismas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mail-express-plus-store" type="462c0819:PsiDirectoryNode" />
-              <item name="front-end" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="custom-prismas" type="b2602c69:ProjectViewProjectNode" />
@@ -363,9 +299,14 @@
     <property name="com.intellij.lang.jsgraphql.ide.injection.JSGraphQLLanguageInjectionUtil.gql" value="apollo" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components" />
+      <recent name="$PROJECT_DIR$/../mail-express-plus-store/front-end/build/static" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/tests" />
       <recent name="$PROJECT_DIR$/../mail-express-plus-store/front-end/build" />
+      <recent name="$PROJECT_DIR$/../mail-express-plus-store/front-end/public" />
+      <recent name="$PROJECT_DIR$/../mail-express-plus-store/front-end/src/tests" />
       <recent name="$PROJECT_DIR$/back-end" />
     </key>
   </component>
@@ -394,12 +335,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525536293074</updated>
-      <workItem from="1525536299831" duration="71058000" />
+      <workItem from="1525536299831" duration="75592000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71058000" />
+    <option name="totallyTimeSpent" value="75592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -425,27 +366,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="GraphQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953104" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Quokka" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -570,38 +490,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/MenuBar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="54" column="55" lean-forward="false" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/Product.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
-          <caret line="41" column="61" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="41" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-            <marker date="1526177814243" expanded="true" signature="2320:2644" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/ProductPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-            <element signature="e#204#247#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/config/apiQueries.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="667">
@@ -644,95 +532,15 @@
     <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/build/_redirects">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/.netlify">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-            <element signature="e#217#259#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/config/Routing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/tests/zunittest.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1058">
-          <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
-          <folding>
-            <element signature="e#80#105#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/AddProductModal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="105" column="35" lean-forward="true" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-            <element signature="e#321#351#0" expanded="true" />
-            <marker date="1526955219251" expanded="true" signature="1165:1972" ph="mutation...{&#10;                    createProduct(data:{&#10;                        model: &quot;SM&quot;,&#10;                        name: &quot;Small Moving Box&quot;,&#10;                        nameLine1: &quot;Small&quot;,&#10;                        nameLine2: &quot;Moving Box&quot;,&#10;                        imageURL: &quot;uhaul-small-box.png&quot;,&#10;                        price: 1.70,&#10;                        highlight1: &quot;dimensions: 16.5 x 12.5 x 12.5&quot;,&#10;                        highlight2: &quot;best used for: smaller items, toys, appliances&quot;,&#10;                        quantityInStock: 50,&#10;                        path: &quot;small-moving-box&quot;&#10;&#10;                    }){&#10;                        name&#10;                        highlight1&#10;                        highlight2&#10;                    }&#10;                }" />
-            <marker date="1526955219251" expanded="true" signature="1173:1972" ph="{...}" />
-            <marker date="1526955219251" expanded="true" signature="1195:1208" ph="createProduct...createProduct" />
-            <marker date="1526955219251" expanded="true" signature="1195:1954" ph="createProduct...{&#10;                        name&#10;                        highlight1&#10;                        highlight2&#10;                    }" />
-            <marker date="1526955219251" expanded="true" signature="1208:1832" ph="(...)" />
-            <marker date="1526955219251" expanded="true" signature="1209:1213" ph="data...data" />
-            <marker date="1526955219251" expanded="true" signature="1209:1831" ph="data...{&#10;                        model: &quot;SM&quot;,&#10;                        name: &quot;Small Moving Box&quot;,&#10;                        nameLine1: &quot;Small&quot;,&#10;                        nameLine2: &quot;Moving Box&quot;,&#10;                        imageURL: &quot;uhaul-small-box.png&quot;,&#10;                        price: 1.70,&#10;                        highlight1: &quot;dimensions: 16.5 x 12.5 x 12.5&quot;,&#10;                        highlight2: &quot;best used for: smaller items, toys, appliances&quot;,&#10;                        quantityInStock: 50,&#10;                        path: &quot;small-moving-box&quot;&#10;&#10;                    }" />
-            <marker date="1526955219251" expanded="true" signature="1214:1831" ph="{...}" />
-            <marker date="1526955219251" expanded="true" signature="1240:1245" ph="model...model" />
-            <marker date="1526955219251" expanded="true" signature="1294:1298" ph="name...name" />
-            <marker date="1526955219251" expanded="true" signature="1346:1355" ph="nameLine1...nameLine1" />
-            <marker date="1526955219251" expanded="true" signature="1408:1417" ph="nameLine2...nameLine2" />
-            <marker date="1526955219251" expanded="true" signature="1470:1478" ph="imageURL...imageURL" />
-            <marker date="1526955219251" expanded="true" signature="1530:1535" ph="price...price" />
-            <marker date="1526955219251" expanded="true" signature="1582:1592" ph="highlight1...highlight1" />
-            <marker date="1526955219251" expanded="true" signature="1646:1656" ph="highlight2...highlight2" />
-            <marker date="1526955219251" expanded="true" signature="1710:1725" ph="quantityInStock...quantityInStock" />
-            <marker date="1526955219251" expanded="true" signature="1782:1786" ph="path...path" />
-            <marker date="1526955219251" expanded="true" signature="1832:1954" ph="{...}" />
-            <marker date="1526955219251" expanded="true" signature="1858:1862" ph="name...name" />
-            <marker date="1526955219251" expanded="true" signature="1887:1897" ph="highlight1...highlight1" />
-            <marker date="1526955219251" expanded="true" signature="1922:1932" ph="highlight2...highlight2" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/EditProduct.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="931">
-          <caret line="99" column="31" lean-forward="true" selection-start-line="99" selection-start-column="31" selection-end-line="99" selection-end-column="31" />
+        <state relative-caret-position="2277">
+          <caret line="99" column="31" lean-forward="false" selection-start-line="99" selection-start-column="31" selection-end-line="99" selection-end-column="31" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
             <marker date="1527020518202" expanded="true" signature="1187:1464" ph="mutation...{&#10;                            updateProduct(data: {price: $} where:{id: &quot;cjgvmvg56w7y60b06wklpp342&quot;}){&#10;                                name&#10;                                price&#10;                                details{&#10;                                    value&#10;                                }&#10;                            }&#10;                        }" />
@@ -787,14 +595,186 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/public/_redirects">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/tests/zunittest.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+          <folding>
+            <element signature="e#80#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/.netlify">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/Product.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1783">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/ProductPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="48" lean-forward="false" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
+          <folding>
+            <element signature="e#160#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/StoreManagement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="483">
+          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
           <folding>
             <element signature="e#79#126#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/AddProductModal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="102" lean-forward="false" selection-start-line="3" selection-start-column="102" selection-end-line="3" selection-end-column="102" />
+          <folding>
+            <element signature="e#178#218#0" expanded="true" />
+            <element signature="e#447#477#0" expanded="true" />
+            <marker date="1527028180217" expanded="true" signature="1214:2021" ph="mutation...{&#10;                    createProduct(data:{&#10;                        model: &quot;SM&quot;,&#10;                        name: &quot;Small Moving Box&quot;,&#10;                        nameLine1: &quot;Small&quot;,&#10;                        nameLine2: &quot;Moving Box&quot;,&#10;                        imageURL: &quot;uhaul-small-box.png&quot;,&#10;                        price: 1.70,&#10;                        highlight1: &quot;dimensions: 16.5 x 12.5 x 12.5&quot;,&#10;                        highlight2: &quot;best used for: smaller items, toys, appliances&quot;,&#10;                        quantityInStock: 50,&#10;                        path: &quot;small-moving-box&quot;&#10;&#10;                    }){&#10;                        name&#10;                        highlight1&#10;                        highlight2&#10;                    }&#10;                }" />
+            <marker date="1527028180217" expanded="true" signature="1222:2021" ph="{...}" />
+            <marker date="1527028180217" expanded="true" signature="1244:1257" ph="createProduct...createProduct" />
+            <marker date="1527028180217" expanded="true" signature="1244:2003" ph="createProduct...{&#10;                        name&#10;                        highlight1&#10;                        highlight2&#10;                    }" />
+            <marker date="1527028180217" expanded="true" signature="1257:1881" ph="(...)" />
+            <marker date="1527028180217" expanded="true" signature="1258:1262" ph="data...data" />
+            <marker date="1527028180217" expanded="true" signature="1258:1880" ph="data...{&#10;                        model: &quot;SM&quot;,&#10;                        name: &quot;Small Moving Box&quot;,&#10;                        nameLine1: &quot;Small&quot;,&#10;                        nameLine2: &quot;Moving Box&quot;,&#10;                        imageURL: &quot;uhaul-small-box.png&quot;,&#10;                        price: 1.70,&#10;                        highlight1: &quot;dimensions: 16.5 x 12.5 x 12.5&quot;,&#10;                        highlight2: &quot;best used for: smaller items, toys, appliances&quot;,&#10;                        quantityInStock: 50,&#10;                        path: &quot;small-moving-box&quot;&#10;&#10;                    }" />
+            <marker date="1527028180217" expanded="true" signature="1263:1880" ph="{...}" />
+            <marker date="1527028180217" expanded="true" signature="1289:1294" ph="model...model" />
+            <marker date="1527028180217" expanded="true" signature="1343:1347" ph="name...name" />
+            <marker date="1527028180217" expanded="true" signature="1395:1404" ph="nameLine1...nameLine1" />
+            <marker date="1527028180217" expanded="true" signature="1457:1466" ph="nameLine2...nameLine2" />
+            <marker date="1527028180217" expanded="true" signature="1519:1527" ph="imageURL...imageURL" />
+            <marker date="1527028180217" expanded="true" signature="1579:1584" ph="price...price" />
+            <marker date="1527028180217" expanded="true" signature="1631:1641" ph="highlight1...highlight1" />
+            <marker date="1527028180217" expanded="true" signature="1695:1705" ph="highlight2...highlight2" />
+            <marker date="1527028180217" expanded="true" signature="1759:1774" ph="quantityInStock...quantityInStock" />
+            <marker date="1527028180217" expanded="true" signature="1831:1835" ph="path...path" />
+            <marker date="1527028180217" expanded="true" signature="1881:2003" ph="{...}" />
+            <marker date="1527028180217" expanded="true" signature="1907:1911" ph="name...name" />
+            <marker date="1527028180217" expanded="true" signature="1936:1946" ph="highlight1...highlight1" />
+            <marker date="1527028180217" expanded="true" signature="1971:1981" ph="highlight2...highlight2" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/MenuBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/components/NavigationDrawer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/config/Routing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/pages/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/images/lava-lamp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/images/helio-logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/images/funny-t-shirts-top.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/images/coffee-mug.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/images/batman-action-figure.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/images/t-shirt.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail-express-plus-store/front-end/src/images/wes-mantooth.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
