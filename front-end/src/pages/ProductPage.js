@@ -25,8 +25,7 @@ export default class extends Component {
     async componentDidMount(){
         const p = await loadProducts();
         this.setState({products: p});
-        let x = [9,8,7,6,5,4,3,2,1,0];
-        console.log(this.shuffle(x));
+        this.setState({products: this.shuffle([...this.state.products])})
     }
 
     render() {
