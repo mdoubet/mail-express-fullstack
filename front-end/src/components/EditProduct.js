@@ -41,6 +41,7 @@ export default class extends Component {
                 }
             ).then( result => result.data.product);
             console.log(prod);
+            window.location.reload()
         }
 
         const deleteProduct = async () => {
@@ -63,6 +64,7 @@ export default class extends Component {
                 }
             ).then( result => result.data);
             console.log(prod.name, " has been deleted!!! with details #", prod.count );
+            window.location.reload()
         }
         const renderProduct = () => {
             return (
