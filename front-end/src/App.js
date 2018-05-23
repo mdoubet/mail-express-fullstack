@@ -16,13 +16,13 @@ export default class extends Component {
         return (
             <MuiThemeProvider>
                 <Router>
-                    <Fragment>
+                    <div style={{maxWidth:'600px', margin:'auto'}}>
                         <MenuBar/>
 
                         <main style={{display: 'flex', alignContent: 'space-between', flexDirection: 'column'}}>
                             <Routing/>
                         </main>
-                    </Fragment>
+                    </div>
                  </Router>
             </MuiThemeProvider>
         );
